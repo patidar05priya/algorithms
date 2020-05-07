@@ -1,5 +1,5 @@
 
-package java;
+package algorithm;
 
 /**
  * Given a sorted array of integers and a target number, return the count of the target number...
