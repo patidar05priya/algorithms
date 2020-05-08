@@ -1,0 +1,9 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(˜Óõşÿÿÿÿÿ8²°í‹Ÿ.
+V
+java:S2864;"4Iterate over the "entrySet" instead of the "keySet".(á†õşÿÿÿÿ8ƒÓñ‹Ÿ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷öá†şÿÿÿÿ
+X	java:S1252"<This block of commented-out lines of code should be removed.(õíë½8Ş·…ŒŸ.
+K
+java:S14811")Remove this unused "prev" local variable.(µ¦±¨ÿÿÿÿÿ8ù”ŒŸ.
