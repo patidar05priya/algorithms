@@ -70,12 +70,9 @@ public class CurrencyExchangeII {
                             priorityQueue.offer(p);
                             distance.put(destination, newVal);
                         }
-
                     }
-
                 }
             }
-
         }
 
         if (distance.containsKey(toCurrency))

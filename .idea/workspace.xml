@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="fb90ffff-8793-4fbc-849e-da2fe2edd8fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/CurrencyExchangeI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/CurrencyExchangeI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/CurrencyExchangeII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/CurrencyExchangeII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/algorithm/CurrencyExchangeI$Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/CurrencyExchangeI$Currency.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/algorithm/CurrencyExchangeI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/CurrencyExchangeI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/CurrencyExchangeII$Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/CurrencyExchangeII$Currency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/CurrencyExchangeII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/CurrencyExchangeII.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +50,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -53,7 +58,7 @@
       <recent name="algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CurrencyExchangeII">
+  <component name="RunManager" selected="Application.CustomSortString">
     <configuration name="CurrencyExchangeI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.CurrencyExchangeI" />
       <module name="personal" />
@@ -80,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CustomSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.CustomSortString" />
+      <module name="personal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DijkstraEagerWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.DijkstraEagerWay" />
       <module name="personal" />
@@ -93,8 +111,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintMatrixDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.PrintMatrixDiagonal" />
+      <module name="personal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomSortString" />
+        <item itemvalue="Application.PrintMatrixDiagonal" />
         <item itemvalue="Application.CurrencyExchangeII" />
         <item itemvalue="Application.DijkstraEagerWay" />
         <item itemvalue="Application.CurrencyExchangeI" />
@@ -112,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588881938000</updated>
       <workItem from="1588881940587" duration="3030000" />
-      <workItem from="1588961025103" duration="4332000" />
+      <workItem from="1588961025103" duration="11516000" />
     </task>
     <servers />
   </component>
@@ -128,49 +161,58 @@
       <screen x="-300" y="-1080" width="2560" height="1080" />
     </state>
     <state x="737" y="-832" key="#com.intellij.ide.util.MemberChooser/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1588894546659" />
-    <state width="2518" height="221" key="GridCell.Tab.0.bottom" timestamp="1588978985335">
+    <state width="2518" height="284" key="GridCell.Tab.0.bottom" timestamp="1589038831896">
       <screen x="-300" y="-1080" width="2560" height="1080" />
     </state>
-    <state width="2518" height="221" key="GridCell.Tab.0.bottom/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1588978985335" />
+    <state width="2518" height="284" key="GridCell.Tab.0.bottom/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1589038831896" />
+    <state width="2518" height="221" key="GridCell.Tab.0.bottom/-300.-1080.2560.1080/0.23.1680.1027@-300.-1080.2560.1080" timestamp="1588982435253" />
     <state width="1638" height="366" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588882968593" />
-    <state width="2518" height="221" key="GridCell.Tab.0.center" timestamp="1588978985333">
+    <state width="2518" height="284" key="GridCell.Tab.0.center" timestamp="1589038831894">
       <screen x="-300" y="-1080" width="2560" height="1080" />
     </state>
-    <state width="2518" height="221" key="GridCell.Tab.0.center/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1588978985333" />
+    <state width="2518" height="284" key="GridCell.Tab.0.center/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1589038831894" />
+    <state width="2518" height="221" key="GridCell.Tab.0.center/-300.-1080.2560.1080/0.23.1680.1027@-300.-1080.2560.1080" timestamp="1588982435252" />
     <state width="1638" height="366" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588882968591" />
-    <state width="2518" height="221" key="GridCell.Tab.0.left" timestamp="1588978985332">
+    <state width="2518" height="284" key="GridCell.Tab.0.left" timestamp="1589038831893">
       <screen x="-300" y="-1080" width="2560" height="1080" />
     </state>
-    <state width="2518" height="221" key="GridCell.Tab.0.left/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1588978985332" />
+    <state width="2518" height="284" key="GridCell.Tab.0.left/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1589038831893" />
+    <state width="2518" height="221" key="GridCell.Tab.0.left/-300.-1080.2560.1080/0.23.1680.1027@-300.-1080.2560.1080" timestamp="1588982435251" />
     <state width="1638" height="366" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588882968590" />
-    <state width="2518" height="221" key="GridCell.Tab.0.right" timestamp="1588978985334">
+    <state width="2518" height="284" key="GridCell.Tab.0.right" timestamp="1589038831895">
       <screen x="-300" y="-1080" width="2560" height="1080" />
     </state>
-    <state width="2518" height="221" key="GridCell.Tab.0.right/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1588978985334" />
+    <state width="2518" height="284" key="GridCell.Tab.0.right/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1589038831895" />
+    <state width="2518" height="221" key="GridCell.Tab.0.right/-300.-1080.2560.1080/0.23.1680.1027@-300.-1080.2560.1080" timestamp="1588982435253" />
     <state width="1638" height="366" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588882968592" />
-    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1588940925949">
+    <state width="2518" height="284" key="GridCell.Tab.1.bottom" timestamp="1589038831899">
       <screen x="-300" y="-1080" width="2560" height="1080" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.bottom/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1588940925949" />
+    <state width="2518" height="284" key="GridCell.Tab.1.bottom/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1589038831899" />
     <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588882867078" />
-    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1588940925946">
+    <state width="2518" height="284" key="GridCell.Tab.1.center" timestamp="1589038831897">
       <screen x="-300" y="-1080" width="2560" height="1080" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.center/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1588940925946" />
+    <state width="2518" height="284" key="GridCell.Tab.1.center/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1589038831897" />
     <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588882867076" />
-    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1588940925945">
+    <state width="2518" height="284" key="GridCell.Tab.1.left" timestamp="1589038831896">
       <screen x="-300" y="-1080" width="2560" height="1080" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.left/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1588940925945" />
+    <state width="2518" height="284" key="GridCell.Tab.1.left/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1589038831896" />
     <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588882867076" />
-    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1588940925948">
+    <state width="2518" height="284" key="GridCell.Tab.1.right" timestamp="1589038831898">
       <screen x="-300" y="-1080" width="2560" height="1080" />
     </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.right/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1588940925948" />
+    <state width="2518" height="284" key="GridCell.Tab.1.right/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1589038831898" />
     <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588882867077" />
     <state x="468" y="-959" key="SettingsEditor" timestamp="1588975965725">
       <screen x="-300" y="-1080" width="2560" height="1080" />
     </state>
     <state x="468" y="-959" key="SettingsEditor/-300.-1080.2560.1080/0.0.1680.1050@-300.-1080.2560.1080" timestamp="1588975965725" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learing$CustomSortString.ic" NAME="CustomSortString Coverage Results" MODIFIED="1589035732778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>algorithm.*</FILTER>
+    </SUITE>
   </component>
 </project>

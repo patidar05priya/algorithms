@@ -1,0 +1,10 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(¾ËÊ¥úÿÿÿÿ8ïõ ÏŸ.
+8
+java:S3626&"Remove this redundant jump.(ÉŠ©ƒ8êŞ§ĞŸ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ø„ª„8«áÙĞŸ.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¾‡Ïıÿÿÿÿ8òïÎĞŸ.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(¾‡Ïıÿÿÿÿ8êŞ§ĞŸ.
