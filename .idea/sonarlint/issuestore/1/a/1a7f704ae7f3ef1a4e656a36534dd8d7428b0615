@@ -1,4 +1,4 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(χφα†ώÿÿÿÿ
 t
 java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Συώÿÿÿÿÿ8ςμμ³.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(χφα†ώÿÿÿÿ
