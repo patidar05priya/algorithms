@@ -30,9 +30,13 @@ Y
 )src/main/java/algorithm/KMPAlgorithm.java,2/9/2998c8224df5f728ae81941d4a770ce6bb53b4fb
 [
 +src/main/java/algorithm/PeriodicString.java,4/3/43a8dfdf1e0984f640009354f06f40bcdb907df8
-c
-3src/main/java/algorithm/SubArrayWithBoundedMax.java,6/a/6a92c481208c550863fa8a87aa30a3cf3292dfe8
 i
 9src/main/java/algorithm/LongestIncreasingSubsequence.java,e/d/edd7f135211170583a2c4ff4e2bd721dc3f51264
 ^
 .src/main/java/algorithm/LenghtOfLongestAP.java,a/2/a28adc460b1d99c1834c1fd547c964821552344f
+_
+/src/main/java/algorithm/ReverseTOMakeEqual.java,b/7/b7a4bba7e926db9bfb434affdf8c0540a4328949
+T
+$src/main/java/algorithm/PairSum.java,5/b/5b4c6474cf5d4927f83336617e242471f1eb2d06
+`
+0src/main/java/algorithm/ContiguousSubarrays.java,0/2/02221b613a29de572e48869daa7c03b17537853f
