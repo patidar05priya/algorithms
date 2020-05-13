@@ -1,17 +1,17 @@
 
-V
-java:S2864""4Iterate over the "entrySet" instead of the "keySet".(û‹éúÿÿÿÿ8ËÿñÖ .
-L
-java:S1481"/Remove this unused "expected_1" local variable.(­ÅÊ¡8«ŽóÖ .
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ñ“ž8«ŽóÖ .
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ß¿•øÿÿÿÿ8ÝºóÖ .
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¤«Çøÿÿÿÿ8‰¡åÖ .
 m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÅÊ¡8«ŽóÖ .
 m	java:S117
 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¬Æø8«ŽóÖ .
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¢·Æ8õÅæÖ .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ß¿•øÿÿÿÿ8ÝºóÖ .
+V
+java:S2864""4Iterate over the "entrySet" instead of the "keySet".(û‹éúÿÿÿÿ8ËÿñÖ .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ñ“ž8«ŽóÖ .
 U	java:S106"9Replace this use of System.out or System.err by a logger.(’þøö8õÅæÖ .
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÆŽùÿÿÿÿÿ8«ŽóÖ .
+L
+java:S1481"/Remove this unused "expected_1" local variable.(­ÅÊ¡8«ŽóÖ .
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¤«Çøÿÿÿÿ8‰¡åÖ .
 l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æïŒM8‰¡åÖ .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¢·Æ8õÅæÖ .
 [
 java:S1854">Remove this useless assignment to local variable "expected_1".(­ÅÊ¡8«ŽóÖ .
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÆŽùÿÿÿÿÿ8«ŽóÖ .

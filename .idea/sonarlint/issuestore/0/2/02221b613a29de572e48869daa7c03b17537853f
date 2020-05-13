@@ -1,12 +1,2 @@
 
-O
-java:S1481"2Remove this unused "backwardCount" local variable.(ÒˆÜÙ8òÂ›Ø .
-\
-java:S1854":Remove this useless assignment to local variable "result".(†¨ÆÕıÿÿÿÿ8¤è÷× .
-R
-java:S1751!"5Remove this "break" statement or make it conditional.(›ûä·8Üƒ—Ø .
-M
-java:S1481"+Remove this unused "result" local variable.(†¨ÆÕıÿÿÿÿ8¤è÷× .
-c
-java:S1854"ARemove this useless assignment to local variable "backwardCount".(ƒÚêşúÿÿÿÿ8òÂ›Ø .
-Z	java:S106%"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8“öœØ .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(û£üùÿÿÿÿ8ØÇşÚ .
