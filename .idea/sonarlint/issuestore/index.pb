@@ -42,3 +42,9 @@ $src/main/java/algorithm/PairSum.java,5/b/5b4c6474cf5d4927f83336617e242471f1eb2
 0src/main/java/algorithm/ContiguousSubarrays.java,0/2/02221b613a29de572e48869daa7c03b17537853f
 ]
 -src/main/java/algorithm/RotationalCipher.java,4/3/43e6e0ffdecc9ae08dd2c88e76d3833a08cadf23
+d
+4src/main/java/algorithm/MinimumLengthSubstrings.java,3/c/3c16ee5b4de0de39b8b6e1e2a75a123b7b47636b
+a
+1src/main/java/algorithm/NumberOfVisibleNodes.java,8/8/884818819ad518c2491028c5dbfe625efa8f4ed4
+`
+0src/main/java/algorithm/MatchingPairsString.java,7/8/78a836f03b7409e45f2cc75252e7236842d3aa5d

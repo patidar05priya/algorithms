@@ -1,0 +1,19 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‘©£üÿÿÿÿ8£Áãö .
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áˆ½‹şÿÿÿÿ8£Áãö .
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õØÚP8£Áãö .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äô ˜8…ä¬÷ .
+K
+java:S1481"/Remove this unused "expected_1" local variable.(õØÚP8ÕÒãö .
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó’‰ûÿÿÿÿ8À¼úö .
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’şøö8æ–÷ .
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(”ß¿•øÿÿÿÿ8™Ó»÷ .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦­ò8™Ó»÷ .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒïùÇ8…ä¬÷ .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÆÀ8…ä¬÷ .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úğ»8À¼úö .
+Q
+java:S1481"/Remove this unused "expected_2" local variable.(üÿ«¶üÿÿÿÿ8…ä¬÷ .
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÿ«¶üÿÿÿÿ8…ä¬÷ .
+Z
+java:S1854">Remove this useless assignment to local variable "expected_1".(õØÚP8ÕÒãö .
