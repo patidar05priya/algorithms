@@ -13,24 +13,20 @@ public class MinimumCoinChange {
 
     private static int coinChange(int[] coins, int amount) {
         int[] tracker = new int[amount + 1];
-        int[] R = new int[amount + 1];
+
 
         Arrays.sort(coins);
         Arrays.fill(tracker, Integer.MAX_VALUE - 1);
-        Arrays.fill(R, -1);
         tracker[0] = 0;
         for (int i = 0; i < coins.length; i++) {
             for (int j = 1; j <= amount; j++) {
                 if (j >= coins[i]) {
                     if (tracker[j - coins[i]] + 1 < tracker[j]) {
                         tracker[j] = 1 + tracker[j - coins[i]];
-                        R[j] = i;
                     }
                 }
             }
         }
-        System.out.println(Arrays.toString(R));
-        printCoinCombination(R, coins);
         return tracker[amount] == Integer.MAX_VALUE - 1 ? -1 : tracker[amount];
     }
 
