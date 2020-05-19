@@ -1,0 +1,20 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒòÙÒúÿÿÿÿ
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(Å™Ø8«­©¡.
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„³¤È
+
+java:S1319"tThe type of the "_children" object should be an interface such as "List" rather than the implementation "ArrayList".(ŒòÙÒúÿÿÿÿ
+j
+java:S1104"TMake children a static final constant or non-public and provide accessors if needed.(ş“îÍ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒòÙÒúÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛÀ¼
+J
+java:S1172O"-Remove this unused method parameter "parent".(Î­×®8Û§¡.
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŸáœüÿÿÿÿ
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÛ£çüÿÿÿÿ
+e
+java:S1104
+"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ôôåÁşÿÿÿÿ8Üú¨¨¡.
+m
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ‚

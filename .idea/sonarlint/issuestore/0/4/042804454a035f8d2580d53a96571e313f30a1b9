@@ -1,0 +1,9 @@
+
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ÁõïÃıÿÿÿÿ8ÌŞœ¦¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ö‰£ÿÿÿÿÿ8ùâŠ¦¡.
+J
+java:S11726"(Remove this unused method parameter "e".(­öØÀûÿÿÿÿ8Ğã¦¡.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ÏŞûšıÿÿÿÿ8•ú‰¦¡.
+U
+java:S1197	"8Move the array designator from the variable to the type.(•ö€8•ú‰¦¡.

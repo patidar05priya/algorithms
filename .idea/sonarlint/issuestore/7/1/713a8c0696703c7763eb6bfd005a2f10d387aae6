@@ -1,0 +1,14 @@
+
+T	java:S106m"9Replace this use of System.out or System.err by a logger.(ÎŞ8öÙŒ—¢.
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(ÅÕùš8äà×¢.
+H
+java:S1144L"+Remove this unused private "remove" method.(ÂØÀ8½ÆÂ¢.
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(³Îç8“Ÿ¹¢.
+I
+java:S1144F",Remove this unused private "minHeap" method.(€ó¶†8½ÆÂ¢.
+M
+java:S1144"+Remove this unused private "isLeaf" method.(ÉÎåñúÿÿÿÿ8×½¶¢.
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8…‘™¢.
+q	java:S116"PRename this field "FRONT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑâùÿÿÿÿ8Ï¿—¢.

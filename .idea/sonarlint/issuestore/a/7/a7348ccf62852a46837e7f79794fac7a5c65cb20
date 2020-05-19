@@ -1,0 +1,4 @@
+
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(¨•±§8ï¼î¢.
+o	java:S116"SRename this field "MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÕŠ8Ø­ì¢.
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ú°õå8ç¢.
