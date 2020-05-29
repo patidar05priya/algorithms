@@ -1,0 +1,13 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ï¸î™ÿÿÿÿÿ8Ü‚ŞÒ¢.
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ØĞ½Ò¢.
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ØĞ½Ò¢.
+[
+java:S1128"9Remove this unused import 'java.awt.image.ImageProducer'.(ô³¸Ûüÿÿÿÿ8„†ÖË¢.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(éÚ—µüÿÿÿÿ8«²óÊ¢.
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ØĞ½Ò¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ãˆ“øÿÿÿÿ8İ‡öÊ¢.

@@ -1,14 +1,14 @@
 
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þþéž8ª¶¯£¢.
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¸ý’ýÿÿÿÿ8ª¶¯£¢.
 r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÇÀ©ûÿÿÿÿ8ª¶¯£¢.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ß¿•øÿÿÿÿ8²°£¢.
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÙùþüÿÿÿÿ8ª¶¯£¢.
 [
 java:S1854">Remove this useless assignment to local variable "expected_1".(Þþéž8ª¶¯£¢.
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¸ý’ýÿÿÿÿ8ª¶¯£¢.
 {
 java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(° Úôøÿÿÿÿ8Ú¦º£¢.
 C
 java:S1659	"!Declare "k_1" on a separate line.(ì¸ý’ýÿÿÿÿ8ª¶¯£¢.
-r	java:S117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÙùþüÿÿÿÿ8ª¶¯£¢.
-r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¸ý’ýÿÿÿÿ8ª¶¯£¢.
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þþéž8ª¶¯£¢.
-r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¸ý’ýÿÿÿÿ8ª¶¯£¢.

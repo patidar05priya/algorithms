@@ -1,11 +1,11 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8¿¥¢.
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¹ôŸ8úÙÆü¡.
-Z	java:S1060"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ8Öçü¡.
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸²¤ƒ8À§Çü¡.
-r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚íêûûÿÿÿÿ8À§Çü¡.
-Z	java:S1067"9Replace this use of System.out or System.err by a logger.(÷î‡±øÿÿÿÿ8Öçü¡.
-U	java:S1062"9Replace this use of System.out or System.err by a logger.(š…œ8Öçü¡.
 Y
 java:S1854"=Remove this useless assignment to local variable "expected1".(¸ÏQ8 ‚æü¡.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸²¤ƒ8À§Çü¡.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ8Öçü¡.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(÷î‡±øÿÿÿÿ8Öçü¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8¿¥¢.
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚íêûûÿÿÿÿ8À§Çü¡.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(š…œ8Öçü¡.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¹ôŸ8úÙÆü¡.
 U	java:S1065"9Replace this use of System.out or System.err by a logger.(×•œ²8Öçü¡.

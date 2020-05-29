@@ -6,7 +6,7 @@ import java.util.Stack;
 
 public class BalanceBrackets {
     public static void main(String[] args) {
-        String s_1 = "}";
+        String s_1 = "{}";
         boolean expected_1 = false;
         boolean output_1 = isBalanced(s_1);
         System.out.println(output_1);

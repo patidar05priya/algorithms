@@ -1,0 +1,11 @@
+
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úßªŸøÿÿÿÿ8ÎÇ–Ó¢.
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï‹Ç§üÿÿÿÿ8ÎÇ–Ó¢.
+`
+java:S1854
+">Remove this useless assignment to local variable "expected_2".(ï‹Ç§üÿÿÿÿ8ÎÇ–Ó¢.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›˜¶ò8ÎÇ–Ó¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èÓƒÚúÿÿÿÿ8ß–¤Ó¢.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ì½çøÿÿÿÿ8¿£ªê¢.

@@ -1,0 +1,9 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’ á”ıÿÿÿÿ8ÛÙÑê¢.
+]
+java:S1854";Remove this useless assignment to local variable "param_2".(ùÊ­Üúÿÿÿÿ8ÅšÇê¢.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¤æ¢8…·Ìê¢.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àü³Â8°ß»ê¢.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÊ­Üúÿÿÿÿ8Ú·»ê¢.
