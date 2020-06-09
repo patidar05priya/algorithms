@@ -1,12 +1,12 @@
 
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚²£8ë¡º•£.
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8°¦ô–£.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì®ÿ†ÿÿÿÿÿ8ë¡º•£.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ß¿•øÿÿÿÿ8ÖÛõ–£.
 O
 java:S1128"-Remove this unused import 'javafx.util.Pair'.(û­ûºüÿÿÿÿ8°¦ô–£.
 m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ñğ÷8ë¡º•£.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚²£8ë¡º•£.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öõ·´ûÿÿÿÿ8ë¡º•£.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8°¦ô–£.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì®ÿ†ÿÿÿÿÿ8ë¡º•£.
 Y
 java:S1854"7Remove this useless assignment to local variable "n_1".(Öõ·´ûÿÿÿÿ8ë¡º•£.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öõ·´ûÿÿÿÿ8ë¡º•£.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ß¿•øÿÿÿÿ8ÖÛõ–£.

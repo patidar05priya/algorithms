@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥’áÖ8ˆ®ÛŞ¦.
+V
+java:S3516	"9Refactor this method to not always return the same value.(Ï—ûş8ò›ß¦.
+J	java:S108")Either remove or fill this block of code.(Ñ¡•øÿÿÿÿ8ÖŞ§ß¦.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úØÃÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü…„ıÿÿÿÿ8ê™ß¦.
+b
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(Ï—ûş8Â¥ÚŞ¦.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£ÃÁÙ8ê™ß¦.

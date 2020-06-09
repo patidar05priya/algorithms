@@ -1,0 +1,12 @@
+
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(©©i8ˆÀˆ‹§.
+E	java:S108")Either remove or fill this block of code.(å¥‡8æ³œ‹§.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÕ¢8 ı†‹§.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(´†Ôíşÿÿÿÿ8„‰‰‹§.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÔî²8 ı†‹§.
+E	java:S108")Either remove or fill this block of code.(ÍÈõ8ƒ¥™‹§.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(µˆœÑ8ë“‹§.
+x
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÍÈõ8æ³œ‹§.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Åà§8İë¸Œ§.

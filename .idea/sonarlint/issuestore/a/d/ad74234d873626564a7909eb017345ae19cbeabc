@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìóâ’8·¹ãİ¥.
+J
+java:S1172"(Remove this unused method parameter "n".(®×¢¡üÿÿÿÿ8¥Á»¦.
+V
+java:S3400"9Remove this method and declare a constant for this value.(”·³›8¥Á»¦.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úØÃÿÿÿÿÿ8çÄ’‘¦.

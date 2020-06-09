@@ -1,15 +1,13 @@
 
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ñ“8«óÖ .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÅÊ¡8«óÖ .
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’şøö8õÅæÖ .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ß¿•øÿÿÿÿ8İºóÖ .
 m	java:S117
 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¬Æø8«óÖ .
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¢·Æ8õÅæÖ .
 r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¤«Çøÿÿÿÿ8‰¡åÖ .
-l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æïŒM8‰¡åÖ .
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Æùÿÿÿÿÿ8«óÖ .
-U	java:S106"9Replace this use of System.out or System.err by a logger.(’şøö8õÅæÖ .
-[
-java:S1854">Remove this useless assignment to local variable "expected_1".(­ÅÊ¡8«óÖ .
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ñ“8«óÖ .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¢·Æ8õÅæÖ .
 V
 java:S2864""4Iterate over the "entrySet" instead of the "keySet".(û‹éúÿÿÿÿ8ËÿñÖ .
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ß¿•øÿÿÿÿ8İºóÖ .
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÅÊ¡8«óÖ .
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Æùÿÿÿÿÿ8«óÖ .
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æïŒM8‰¡åÖ .
